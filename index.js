@@ -8,3 +8,7 @@ var dateTimed = moment().format("MMMM Do YYYY, h:mm:ss a");
 console.log(dateTimed);
 
 console.log(math.sqrt(-4));
+
+const name = "dahston";
+
+console.log(`HI ${name}!`);
